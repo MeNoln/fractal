@@ -14,7 +14,7 @@ import (
 )
 
 const (
-	max_iter = 800
+	max_iter = 1000
 )
 
 var (
